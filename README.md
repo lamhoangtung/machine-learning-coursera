@@ -1,5 +1,5 @@
 # Machine Learning Coursera
-Coursera's Machine Learning course by Andrew Ng
+Assignments for Coursera's course Machine Learning by Andrew Ng
 
 ## My information
 Name: Hoang Tung Lam
